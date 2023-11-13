@@ -50,8 +50,6 @@ public class PortScanner {
                 }
             }
         } catch (IOException e) {
-
-
             e.printStackTrace();
         }
 
